@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798615519815",
+    "project_id": "ar-geospatial-5e238",
+    "storage_bucket": "ar-geospatial-5e238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798615519815:android:bb3d20dd590de245232762",
+        "android_client_info": {
+          "package_name": "com.AR.ARGeospatial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhQVONmgDqWrM7reBxq034NJjk3-dB80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
