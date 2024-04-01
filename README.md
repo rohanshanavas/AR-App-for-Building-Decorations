@@ -28,13 +28,13 @@ AR Geospatial is an augmented reality (AR) application developed to enhance outd
 
 #### App Screenashots:
 
-![Main Scene](Application%20Screenshots/1%20-%20Main%20Scene.jpg)
+<img src="Application%20Screenshots/1%20-%20Main%20Scene.jpg" alt="Main Scene" width="400">
 
-![AR Navigation](Application%20Screenshots/2-%20Navigation%20to%20Location.jpg)
+<img src="Application%20Screenshots/2-%20Navigation%20to%20Location.jpg" alt="AR Navigation" width="400">
 
-![Prompt for Destination Reached](Application%20Screenshots/3%20-%20Destination%20Reached%20Prompt.jpg)
+<img src="Application%20Screenshots/3%20-%20Destination%20Reached%20Prompt.jpg" alt="Prompt for Destination Reached" width="400">
 
-![3D Object Displayed on Building](Application%20Screenshots/4%20-%203D%20Object%20Displayed.jpg)
+<img src="Application%20Screenshots/4%20-%203D%20Object%20Displayed.jpg" alt="3D Object Displayed on Building" width="400">
 
 #### Additional Notes:
 - Ensure that your Android device supports ARCore for optimal performance of the AR features.
