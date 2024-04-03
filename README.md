@@ -1,9 +1,9 @@
-### AR App for House Decorations
+# AR App for House Decorations
 
-#### Overview:
+## Overview:
 AR Geospatial is an augmented reality (AR) application developed to enhance outdoor experiences through the integration of AR technology with location-based services. This project aims to provide users with a unique and entertaining way to engage with their environment during festive seasons, such as Halloween, by overlaying digital decorations onto real-world scenes.
 
-#### Installation Instructions:
+## Installation Instructions:
 
 1. **Android Application Installation:**
    - Copy the .apk file located in the folder "Android Application APK" to your Android device.
@@ -26,7 +26,7 @@ AR Geospatial is an augmented reality (AR) application developed to enhance outd
      - Click on "Import" in the pop-up window that appears.
      - The project is now ready for exploration or modification.
 
-#### App Screenashots:
+## App Screenashots:
 
 <img src="Application%20Screenshots/1%20-%20Main%20Scene.jpg" alt="Main Scene" width="400">
 
@@ -36,5 +36,5 @@ AR Geospatial is an augmented reality (AR) application developed to enhance outd
 
 <img src="Application%20Screenshots/4%20-%203D%20Object%20Displayed.jpg" alt="3D Object Displayed on Building" width="400">
 
-#### Additional Notes:
+## Additional Notes:
 - Ensure that your Android device supports ARCore for optimal performance of the AR features.
