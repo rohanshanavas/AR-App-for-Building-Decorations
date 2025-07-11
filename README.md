@@ -1,4 +1,4 @@
-# AR App for Building Decorations
+# AR Geospatial: Augmented Reality (AR) App
 
 ## Overview
 AR Geospatial is an augmented reality (AR) application developed to enhance outdoor experiences through the integration of AR technology with location-based services. This project aims to provide users with a unique and entertaining way to engage with their environment during festive seasons, such as Halloween, by overlaying digital decorations onto real-world scenes.
